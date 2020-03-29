@@ -13,6 +13,20 @@ combinations.
 
 Read on for quick instructions on using the application.
 
+### Running the Application
+
+To run the application, run the following command:
+
+```shell script
+$ python main.py <equipment CSV> <combination output file> <JSON config>
+```
+
+### Examples
+
+If you just want to get a quick idea on your own for how to use this, take a look at the
+[example_data](https://github.com/leodenault/mhw_optimizer/tree/master/example_data) directory.
+Otherwise read on for more details.
+
 ### Gathering Data
 
 The application requires 2 files to run:
@@ -115,11 +129,3 @@ Other attributes are:
     *   **NOTE**: It is recommended to use a weight on the order of 0.01 given that defence values
         can soar to the hundreds
 *   The `limit` attribute which defines the maximum number of combinations to output
-
-### Running the Application
-
-To run the application, run the following command:
-
-```shell script
-$ python main.py <equipment CSV> <combination output file> <JSON config>
-```
