@@ -34,8 +34,8 @@ Header                       | Description                                      
 Equipment Piece Name         | The name of the equipment piece as defined in the game   | Yes
 Skill 1 Name                 | The name of the first skill associated with the piece    | Yes
 Skill 1 Level                | The level of the first skill                             | Yes
-Skill 2 Name - Optional      | The name of the second skill associated with the piece   | No
-Skill 2 Level - Optional     | The level of the second skill                            | No
+Skill 2 Name                 | The name of the second skill associated with the piece   | No
+Skill 2 Level                | The level of the second skill                            | No
 Num Lvl 1 Deco Slots         | The number of level 1 decoration slots on the piece      | Yes
 Num Lvl 2 Deco Slots         | The number of level 2 decoration slots on the piece      | Yes
 Num Lvl 3 Deco Slots         | The number of level 3 decoration slots on the piece      | Yes
