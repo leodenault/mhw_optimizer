@@ -1,0 +1,11 @@
+Piece,Stat 1,Level,Stat 2,Level,Deco Slots Lvl 1,Deco Slots Lvl 2,Deco Slots Lvl 3,Deco Slots Lvl 4,Body Part,Base Def
+Attack Charm III,Attack Boost,3,,,,,,,Charm,
+Sooper Dooper,Attack Boost,4,Critical Eye,4,1,1,1,1,Head,256
+Strong Skillz,Attack Boost,20,Critical Eye,20,0,0,0,0,Body,116
+Literal Garbage,Garbage,0,,,0,0,0,0,Arms,0
+Strong Defence,Attack Boost,1,Evade Extender,1,0,1,0,0,Legs,500
+Boring Skills,Not Useful,50,Really Useless,50,1,0,1,0,Waist,116
+Lotsa Decos,Attack Boost,1,Item Prolonger,2,3,4,5,6,Legs,116
+A Normal One,Attack Boost,2,Item Prolonger,1,1,0,0,1,Head,116
+Another Normal One,Attack Boost,2,Item Prolonger,1,1,0,0,1,Waist,116
+A Final Normal One,Critical Eye,2,Item Prolonger,1,1,0,0,1,Legs,116

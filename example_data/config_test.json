@@ -1,0 +1,28 @@
+{
+  "decorations": {
+    "deco_1": 1.0,
+    "deco_2": 1.0,
+    "deco_3": 1.0,
+    "deco_4": 1.0,
+    "num_decos": 1.0
+  },
+  "skills": {
+    "Attack Boost": {
+      "max": 7,
+      "weight": 1.0,
+      "penalty": 0.0
+    },
+    "Critical Eye": {
+      "max": 7,
+      "weight": 1.0,
+      "penalty": 0.0
+    },
+    "Critical Boost": {
+      "max": 3,
+      "weight": 1.0,
+      "penalty": 0.0
+    }
+  },
+  "defence": 0.01,
+  "limit": 100
+}

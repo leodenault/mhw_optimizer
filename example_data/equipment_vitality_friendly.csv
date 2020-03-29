@@ -1,0 +1,40 @@
+Piece,Stat 1,Level,Stat 2,Level,Deco Slots Lvl 1,Deco Slots Lvl 2,Deco Slots Lvl 3,Deco Slots Lvl 4,Body Part,Base Def
+Lumu Phantasm Hood Alpha +,Wide-Range,1,Weakness Exploit,1,2,0,0,0,Head,132
+Lumu Phantasm Mail Alpha +,Wide-Range,2,Maximum Might,1,0,1,0,0,Body,132
+Lumu Phantasm Mail Beta +,Wide-Range,2,,,1,0,0,1,Body,132
+Lumu Phantasm Coil Alpha +,Wide-Range,1,Sleep Attack,2,0,1,0,0,Waist,132
+Lumu Phantasm Greaves Alpha +,Wide-Range,1,Sleep Resistance,2,0,0,1,0,Legs,132
+Ingot Vambraces Alpha +,Health Boost,2,Thunder Attack,2,1,1,0,0,Arms,136
+Ingot Vambraces Beta +,Health Boost,2,Thunder Attack,1,0,0,0,1,Arms,136
+Barioth Vambraces Alpha +,Recovery Up,2,Constitution,2,0,1,0,0,Arms,138
+Barioth Vambraces Beta +,Recovery Up,2,Constitution,1,0,0,0,1,Arms,138
+Barioth Faulds Alpha +,Recovery Up,1,Quick Sheath,1,0,0,1,0,Waist,138
+Lavasioth Vambraces Alpha +,Recovery Up,1,Peak Performance,2,1,0,0,0,Arms,140
+Lavasioth Vambraces Beta +,Recovery Up,1,Peak Performance,1,0,0,0,1,Arms,140
+Lavasioth Coil Alpha +,Recovery Up,2,Quick Sheath,2,1,0,0,0,Waist,140
+Lavasioth Coil Beta +,Recovery Up,1,Quick Sheath,2,0,0,0,1,Waist,140
+Tigrex Mail Alpha +,Free Meal,1,Earplugs,2,0,1,0,0,Body,142
+Tigrex Braces Alpha +,Speed Eating,2,Attack Boost,2,1,0,0,0,Arms,142
+Tigrex Braces Beta +,Speed Eating,2,Attack Boost,1,0,0,0,1,Arms,142
+Tigrex Tassets Alpha +,Free Meal,1,Earplugs,1,1,0,1,0,Waist,142
+Tigrex Greaves Alpha +,Speed Eating,1,Free Meal,1,1,0,1,0,Legs,142
+Tigrex Greaves Beta +,Speed Eating,1,,,0,1,0,1,Legs,142
+Fellshroud Mail Alpha +,Recovery Speed,2,Dragon Attack,2,1,0,1,0,Body,156
+Fellshroud Mail Beta +,Recovery Speed,2,Dragon Attack,1,0,1,0,1,Body,156
+Fellshroud Braces Alpha +,Recovery Up,2,Speed Eating,1,2,1,0,0,Arms,156
+Fellshroud Braces Beta +,Recovery Up,2,,,2,0,0,1,Arms,156
+Fellshroud Coil Alpha +,Speed Eating,2,Peak Performance,1,1,1,0,0,Waist,156
+Fellshroud Coil Beta +,Speed Eating,2,,,0,1,0,1,Waist,156
+Shara Ishvalda Helm Alpha +,Recovery Up,2,Partbreaker,1,1,0,1,0,Head,162
+Shara Ishvalda Helm Beta +,Recovery Up,2,,,0,1,0,1,Head,162
+Shara Ishvalda Mail Alpha +,Health Boost,1,Coalescence,2,0,1,1,0,Body,162
+Shara Ishvalda Coil Alpha +,Health Boost,2,Recovery Up,1,0,1,1,0,Waist,162
+Shara Ishvalda Coil Health +,Health Boost,2,,,0,0,1,1,Waist,162
+Oolong Boots Alpha +,Health Boost,2,,,0,1,0,1,Legs,120
+Astral Veil Alpha +,Wide-Range,3,,,0,0,0,1,Head,140
+Pearlspring Alpha +,Recovery Up,2,,,1,1,0,0,Head,120
+Health Charm III,Health Boost,3,,,,,,,Charm,
+Recovery Charm III,Recovery Up,3,,,,,,,Charm,
+Speed Heal Charm III,Recovery Speed,3,,,,,,,Charm,
+Glutton’s Charm III,Speed Eating,3,,,,,,,Charm,
+Friendship Charm III,Wide-Range,3,,,,,,,Charm,

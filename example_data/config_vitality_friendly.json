@@ -1,0 +1,43 @@
+{
+  "decorations": {
+    "deco_1": 1.2,
+    "deco_2": 1.5,
+    "deco_3": 1.9,
+    "deco_4": 3.0,
+    "num_decos": 1.3
+  },
+  "skills": {
+    "Wide-Range": {
+      "max": 5,
+      "weight": 3.0,
+      "penalty": 0.0
+    },
+    "Health Boost": {
+      "max": 3,
+      "weight": 3.0,
+      "penalty": 0.0
+    },
+    "Recovery Up": {
+      "max": 3,
+      "weight": 2.3,
+      "penalty": 0.0
+    },
+    "Recovery Speed": {
+      "max": 3,
+      "weight": 1.7,
+      "penalty": 0.0
+    },
+    "Speed Eating": {
+      "max": 3,
+      "weight": 2.75,
+      "penalty": 0.0
+    },
+    "Free Meal": {
+      "max": 3,
+      "weight": 2.0,
+      "penalty": 0.0
+    }
+  },
+  "defence": 0.012,
+  "limit": 30
+}

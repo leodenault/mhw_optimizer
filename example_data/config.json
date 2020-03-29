@@ -1,0 +1,63 @@
+{
+  "decorations": {
+    "deco_1": 1.5,
+    "deco_2": 2.0,
+    "deco_3": 2.5,
+    "deco_4": 3.5,
+    "num_decos": 2.0
+  },
+  "skills": {
+    "Health Boost": {
+      "max": 3,
+      "weight": 3.0,
+      "penalty": 0.0
+    },
+    "Recovery Up": {
+      "max": 3,
+      "weight": 2.3,
+      "penalty": 0.0
+    },
+    "Recovery Speed": {
+      "max": 3,
+      "weight": 1.7,
+      "penalty": 0.0
+    },
+    "Speed Eating": {
+      "max": 3,
+      "weight": 2.75,
+      "penalty": 0.0
+    },
+    "Free Meal": {
+      "max": 3,
+      "weight": 2.0,
+      "penalty": 0.0
+    },
+    "Attack Boost": {
+      "max": 7,
+      "weight": 3,
+      "penalty": 0.0
+    },
+    "Critical Eye": {
+      "max": 7,
+      "weight": 3,
+      "penalty": 0.0
+    },
+    "Critical Boost": {
+      "max": 3,
+      "weight": 3,
+      "penalty": 0.0
+    },
+    "Weakness Exploit": {
+      "max": 3,
+      "weight": 1.0,
+      "penalty": 0.0
+    },
+    "Handicraft": {
+      "max": 5,
+      "weight": 2.0,
+      "penalty": 0.0
+    }
+  },
+  "defence": 0.012,
+  "limit": 30
+}

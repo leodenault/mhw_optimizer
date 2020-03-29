@@ -1,0 +1,85 @@
+Piece,Stat 1,Level,Stat 2,Level,Deco Slots Lvl 1,Deco Slots Lvl 2,Deco Slots Lvl 3,Deco Slots Lvl 4,Body Part,Base Def
+Rathalos Helm Alpha +,Attack Boost,2,Fire Attack,2,0,2,0,0,Head,140
+Rathalos Helm Beta +,Attack Boost,2,,,1,0,0,1,Head,140
+Rathalos Mail Alpha +,Weakness Exploit,2,Fire Attack,1,2,0,0,0,Body,140
+Rathalos Mail Beta +,Weakness Exploit,2,,,0,0,0,1,Body,140
+Rathalos Vambraces Alpha +,Weakness Exploit,1,Jump Master,1,0,0,1,0,Arms,140
+Rathalos Greaves Alpha +,Attack Boost,2,Stonethrower,2,0,0,1,0,Legs,140
+Rathalos Greaves Beta +,Attack Boost,1,Stonethrower,2,0,0,0,1,Legs,140
+Odogaron Helm Alpha +,Critical Eye,2,Bleeding Resistance,2,0,1,0,0,Head,140
+Odogaron Helm Beta +,Critical Eye,1,Bleeding Resistance,2,0,0,0,1,Head,140
+Odogaron Vambraces Alpha +,Critical Eye,1,Constitution,2,1,0,0,0,Arms,140
+Odogaron Vambraces Beta +,Critical Eye,1,Constitution,1,0,0,0,1,Arms,140
+Odogaron Coil Alpha +,Critical Eye,3,Speed Sharpening,1,0,1,0,0,Waist,140
+Odogaron Coil Beta +,Critical Eye,2,,,0,1,0,1,Waist,140
+Odogaron Greaves Alpha +,Critical Eye,1,Quick Sheath,2,1,0,0,0,Legs,140
+Odogaron Greaves Beta +,Critical Eye,1,Quick Sheath,1,0,0,0,1,Legs,140
+Attack Charm III,Attack Boost,3,,,,,,,Charm,
+Master Charm IV,Critical Eye,3,,,,,,,Charm,
+Rath Soul Helm Alpha +,Critical Boost,1,Cliffhanger,1,2,0,0,0,Head,148
+Rath Soul Helm Beta +,Critical Boost,1,,,0,0,0,1,Head,148
+Rath Soul Greaves Alpha +,Critical Boost,1,Windproof,2,1,0,0,0,Legs,148
+Rath Soul Greaves Beta +,Critical Boost,1,Windproof,1,0,0,0,1,Legs,148
+Fulgur Helm Alpha +,Weakness Exploit,1,Resuscitate,1,1,1,0,0,Head,146
+Fulgur Helm Beta +,Weakness Exploit,1,,,0,1,0,1,Head,146
+Fulgur Coil Alpha +,Weakness Exploit,2,Item Prolonger,1,1,0,0,0,Waist,146
+Fulgur Coil Beta +,Weakness Exploit,1,Item Prolonger,1,1,0,0,1,Waist,146
+Death Garon Mail Alpha +,Critical Eye,3,Dragon Resistance,2,0,1,0,0,Body,148
+Death Garon Mail Beta +,Critical Eye,2,Dragon Resistance,1,1,0,0,1,Body,148
+Dober Mail Alpha +,Attack Boost,2,Effluvia Resistance,1,3,0,0,0,Body,152
+Dober Mail Beta +,Attack Boost,1,Effluvia Resistance,1,2,0,0,1,Body,152
+Dober Coil Alpha +,Attack Boost,2,Stun Resistance,2,1,1,0,0,Waist,152
+Dober Coil Beta +,Attack Boost,1,Stun Resistance,1,0,1,0,1,Waist,152
+Dober Greaves Alpha +,Attack Boost,2,Mushroomancer,2,0,1,0,0,Legs,152
+Dober Greaves Beta +,Attack Boost,1,Mushroomancer,1,0,1,0,1,Legs,152
+Astral Cloth Alpha +,Critical Boost,2,,,1,0,0,0,Body,140
+Oolong Hair Alpha +,Critical Eye,3,,,0,0,0,1,Head,120
+Kaiser Crown Alpha +,Critical Eye,2,Latent Power,2,1,0,0,0,Head,156
+Kaiser Crown Beta +,Critical Eye,2,Latent Power,1,0,0,0,1,Head,156
+Kaiser Vambraces Alpha +,Weakness Exploit,2,Heat Guard,1,0,2,0,0,Arms,156
+Kaiser Vambraces Beta +,Weakness Exploit,1,Heat Guard,1,0,0,1,1,Arms,156
+Kaiser Coil Alpha +,Weakness Exploit,1,Blast Attack,2,0,0,1,0,Waist,156
+Kirin Jacket Alpha +,Critical Eye,3,Divine Blessing,1,0,1,1,0,Body,154
+Kirin Jacket Beta +,Critical Eye,2,Divine Blessing,1,0,1,0,1,Body,154
+Kirin Leg Guards Alpha +,Critical Eye,2,Free Elem/Ammo Up,2,1,0,0,0,Legs,154
+Shara Ishvalda Braces Alpha +,Critical Boost,2,Coalescence,1,1,0,0,0,Arms,162
+Shara Ishvalda Braces Beta +,Critical Boost,2,,,0,0,0,1,Arms,162
+Ingot Vambraces Alpha +,Health Boost,2,Thunder Attack,2,1,1,0,0,Arms,136
+Ingot Vambraces Beta +,Health Boost,2,Thunder Attack,1,0,0,0,1,Arms,136
+Barioth Vambraces Alpha +,Recovery Up,2,Constitution,2,0,1,0,0,Arms,138
+Barioth Vambraces Beta +,Recovery Up,2,Constitution,1,0,0,0,1,Arms,138
+Barioth Faulds Alpha +,Recovery Up,1,Quick Sheath,1,0,0,1,0,Waist,138
+Lavasioth Vambraces Alpha +,Recovery Up,1,Peak Performance,2,1,0,0,0,Arms,140
+Lavasioth Vambraces Beta +,Recovery Up,1,Peak Performance,1,0,0,0,1,Arms,140
+Lavasioth Coil Alpha +,Recovery Up,2,Quick Sheath,2,1,0,0,0,Waist,140
+Lavasioth Coil Beta +,Recovery Up,1,Quick Sheath,2,0,0,0,1,Waist,140
+Tigrex Mail Alpha +,Free Meal,1,Earplugs,2,0,1,0,0,Body,142
+Tigrex Braces Alpha +,Speed Eating,2,Attack Boost,2,1,0,0,0,Arms,142
+Tigrex Braces Beta +,Speed Eating,2,Attack Boost,1,0,0,0,1,Arms,142
+Tigrex Tassets Alpha +,Free Meal,1,Earplugs,1,1,0,1,0,Waist,142
+Tigrex Greaves Alpha +,Speed Eating,1,Free Meal,1,1,0,1,0,Legs,142
+Tigrex Greaves Beta +,Speed Eating,1,,,0,1,0,1,Legs,142
+Fellshroud Mail Alpha +,Recovery Speed,2,Dragon Attack,2,1,0,1,0,Body,156
+Fellshroud Mail Beta +,Recovery Speed,2,Dragon Attack,1,0,1,0,1,Body,156
+Fellshroud Braces Alpha +,Recovery Up,2,Speed Eating,1,2,1,0,0,Arms,156
+Fellshroud Braces Beta +,Recovery Up,2,,,2,0,0,1,Arms,156
+Fellshroud Coil Alpha +,Speed Eating,2,Peak Performance,1,1,1,0,0,Waist,156
+Fellshroud Coil Beta +,Speed Eating,2,,,0,1,0,1,Waist,156
+Shara Ishvalda Helm Alpha +,Recovery Up,2,Partbreaker,1,1,0,1,0,Head,162
+Shara Ishvalda Helm Beta +,Recovery Up,2,,,0,1,0,1,Head,162
+Shara Ishvalda Mail Alpha +,Health Boost,1,Coalescence,2,0,1,1,0,Body,162
+Shara Ishvalda Coil Alpha +,Health Boost,2,Recovery Up,1,0,1,1,0,Waist,162
+Shara Ishvalda Coil Health +,Health Boost,2,,,0,0,1,1,Waist,162
+Oolong Boots Alpha +,Health Boost,2,,,0,1,0,1,Legs,120
+Pearlspring Alpha +,Recovery Up,2,,,1,1,0,0,Head,120
+Health Charm III,Health Boost,3,,,,,,,Charm,
+Recovery Charm III,Recovery Up,3,,,,,,,Charm,
+Speed Heal Charm III,Recovery Speed,3,,,,,,,Charm,
+Glutton’s Charm III,Speed Eating,3,,,,,,,Charm,
+Handicraft Charm III,Handicraft,3,,,,,,,Charm,
+Garuga Helm Alpha +,Critical Eye,2,Resentment,1,0,0,1,0,Head,154
+Garuga Helm Beta +,Critical Eye,1,Resentment,1,0,1,0,1,Head,154
+Garuga Mail Alpha +,Critical Eye,2,Earplugs,2,1,0,0,0,Body,154
+Garuga Mail Beta +,Critical Eye,1,Earplugs,1,0,0,0,1,Body,154
+Garuga Greaves Alpha +,Critical Eye,2,Piercing Shots,1,0,0,2,0,Legs,154
+Garuga Greaves Beta +,Critical Eye,2,,,0,2,0,1,Legs,154
