@@ -20,8 +20,4 @@ config = ConfigImporter(args[3]).load()
 combinations = Combiner(equipment_pieces).generate_combinations()
 filtered_combinations = Filter(config, combinations).filter()
 
-csv_exporter.export_combinations(
-    equipment_pieces,
-    filtered_combinations,
-    args[2]
-)
+csv_exporter.export_combinations(filtered_combinations, args[2])

@@ -44,7 +44,15 @@ _generate_header_handlers = (
 )
 
 
-def export_combinations(equipment_pieces, combinations, file_name):
+def export_combinations(combinations, file_name):
+    equipment_pieces = set()
+    for combination in combinations:
+        equipment_pieces.add(combination.head_piece)
+        equipment_pieces.add(combination.body_piece)
+        equipment_pieces.add(combination.arm_piece)
+        equipment_pieces.add(combination.waist_piece)
+        equipment_pieces.add(combination.leg_piece)
+        equipment_pieces.add(combination.charm)
     header_handlers = _generate_header_handlers(equipment_pieces)
     headers = [_capitalize_words(x.name()) for x in header_handlers]
 
