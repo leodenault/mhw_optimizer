@@ -33,11 +33,11 @@ class Filter:
         deco_config = self.config.decoration_config
         self.progress_bar.increment()
         return (
-            deco_slots[1] * deco_config.lvl1_decoration_weight
-            + deco_slots[2] * deco_config.lvl2_decoration_weight
-            + deco_slots[3] * deco_config.lvl3_decoration_weight
-            + deco_slots[4] * deco_config.lvl4_decoration_weight
-            + sum(deco_slots.values()) * deco_config.num_decorations_weight
+            deco_slots[0] * deco_config.lvl1_decoration_weight
+            + deco_slots[1] * deco_config.lvl2_decoration_weight
+            + deco_slots[2] * deco_config.lvl3_decoration_weight
+            + deco_slots[3] * deco_config.lvl4_decoration_weight
+            + sum(deco_slots) * deco_config.num_decorations_weight
             + self._generate_skills_score(combination)
             + combination.total_defence * self.config.defence_weight
         )

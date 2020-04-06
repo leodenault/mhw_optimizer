@@ -1,26 +1,44 @@
 from equipment_piece import BodyPart
-from header_handlers.equipment_name_handler import EquipmentNameHandler
+from header_handlers import skill_handler
 from header_handlers.decoration_handler import DecorationHandler
 from header_handlers.defence_handler import DefenceHandler
-from header_handlers import skill_handler
+from header_handlers.equipment_name_handler import EquipmentNameHandler
 from progress_bar.progress_bar import ProgressBar
 
 _generate_header_handlers = (
     lambda equipment_pieces:
     ([
-         EquipmentNameHandler(BodyPart.HEAD),
-         EquipmentNameHandler(BodyPart.BODY),
-         EquipmentNameHandler(BodyPart.ARMS),
-         EquipmentNameHandler(BodyPart.WAIST),
-         EquipmentNameHandler(BodyPart.LEGS),
-         EquipmentNameHandler(BodyPart.CHARM)
+         EquipmentNameHandler(
+             BodyPart.HEAD.name,
+             lambda combination: combination.head_piece.name
+         ),
+         EquipmentNameHandler(
+             BodyPart.BODY.name,
+             lambda combination: combination.body_piece.name
+         ),
+         EquipmentNameHandler(
+             BodyPart.ARMS.name,
+             lambda combination: combination.arm_piece.name
+         ),
+         EquipmentNameHandler(
+             BodyPart.WAIST.name,
+             lambda combination: combination.waist_piece.name
+         ),
+         EquipmentNameHandler(
+             BodyPart.LEGS.name,
+             lambda combination: combination.leg_piece.name
+         ),
+         EquipmentNameHandler(
+             BodyPart.CHARM.name,
+             lambda combination: combination.charm.name
+         )
      ]
      + skill_handler.generate_from(equipment_pieces)
      + [
+         DecorationHandler(level=0),
          DecorationHandler(level=1),
          DecorationHandler(level=2),
          DecorationHandler(level=3),
-         DecorationHandler(level=4),
          DefenceHandler(),
      ])
 )

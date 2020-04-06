@@ -9,4 +9,4 @@ class DecorationHandler(HeaderHandler):
         return str(combination.total_decoration_slots_by_level[self.level])
 
     def name(self):
-        return "Lvl {0} Decoration Slot".format(self.level)
+        return "Lvl {0} Decoration Slot".format(self.level + 1)
