@@ -1,13 +1,3 @@
-Head,Body,Arms,Waist,Legs,Charm,Attack Boost,Critical Eye,Evade Extender,Garbage,Item Prolonger,Not Useful,Really Useless,Lvl 1 Decoration Slot,Lvl 2 Decoration Slot,Lvl 3 Decoration Slot,Lvl 4 Decoration Slot,Defence
-Sooper Dooper,Strong Skillz,Literal Garbage,Boring Skills,Lotsa Decos,Attack Charm III,25,24,0,0,2,50,50,5,5,7,7,604
-A Normal One,Strong Skillz,Literal Garbage,Boring Skills,Lotsa Decos,Attack Charm III,23,20,0,0,3,50,50,5,4,6,7,464
-Sooper Dooper,Strong Skillz,Literal Garbage,Boring Skills,Strong Defence,Attack Charm III,25,24,1,0,0,50,50,2,2,2,1,988
-Sooper Dooper,Strong Skillz,Literal Garbage,Boring Skills,A Final Normal One,Attack Charm III,24,26,0,0,1,50,50,3,1,2,2,604
-A Normal One,Strong Skillz,Literal Garbage,Boring Skills,Strong Defence,Attack Charm III,23,20,1,0,1,50,50,2,1,1,1,848
-A Normal One,Strong Skillz,Literal Garbage,Boring Skills,A Final Normal One,Attack Charm III,22,22,0,0,2,50,50,3,0,1,2,464
-Sooper Dooper,Strong Skillz,Literal Garbage,Another Normal One,Lotsa Decos,Attack Charm III,27,24,0,0,3,0,0,5,5,6,8,604
-A Normal One,Strong Skillz,Literal Garbage,Another Normal One,Lotsa Decos,Attack Charm III,25,20,0,0,4,0,0,5,4,5,8,464
-Sooper Dooper,Strong Skillz,Literal Garbage,Another Normal One,Strong Defence,Attack Charm III,27,24,1,0,1,0,0,2,2,1,2,988
-Sooper Dooper,Strong Skillz,Literal Garbage,Another Normal One,A Final Normal One,Attack Charm III,26,26,0,0,2,0,0,3,1,1,3,604
-A Normal One,Strong Skillz,Literal Garbage,Another Normal One,Strong Defence,Attack Charm III,25,20,1,0,2,0,0,2,1,0,2,848
-A Normal One,Strong Skillz,Literal Garbage,Another Normal One,A Final Normal One,Attack Charm III,24,22,0,0,3,0,0,3,0,0,3,464
+Head,Body,Arms,Waist,Legs,Charm,Attack Boost,Critical Eye,Defense Up,Garbage,Not Useful,Really Useless,Lvl 1 Decoration Slot,Lvl 2 Decoration Slot,Lvl 3 Decoration Slot,Lvl 4 Decoration Slot,Defence
+Head | Critical Eye,Body | Attack,Literal Garbage,Boring Skills,Lotsa Decos,Attack Charm III,4,1,0,0,51,50,4,4,6,6,400
+Head | Critical Eye,Body | Attack,Literal Garbage,Boring Skills,Legs | Defence,Attack Charm III,4,1,1,0,50,50,1,1,1,0,800

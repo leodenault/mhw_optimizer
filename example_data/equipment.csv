@@ -15,7 +15,7 @@ Odogaron Coil Beta +,Critical Eye,2,,,0,1,0,1,Waist,140
 Odogaron Greaves Alpha +,Critical Eye,1,Quick Sheath,2,1,0,0,0,Legs,140
 Odogaron Greaves Beta +,Critical Eye,1,Quick Sheath,1,0,0,0,1,Legs,140
 Attack Charm III,Attack Boost,3,,,,,,,Charm,
-Master Charm IV,Critical Eye,3,,,,,,,Charm,
+Master Charm IV,Critical Eye,4,,,,,,,Charm,
 Rath Soul Helm Alpha +,Critical Boost,1,Cliffhanger,1,2,0,0,0,Head,148
 Rath Soul Helm Beta +,Critical Boost,1,,,0,0,0,1,Head,148
 Rath Soul Greaves Alpha +,Critical Boost,1,Windproof,2,1,0,0,0,Legs,148
@@ -69,7 +69,7 @@ Shara Ishvalda Helm Alpha +,Recovery Up,2,Partbreaker,1,1,0,1,0,Head,162
 Shara Ishvalda Helm Beta +,Recovery Up,2,,,0,1,0,1,Head,162
 Shara Ishvalda Mail Alpha +,Health Boost,1,Coalescence,2,0,1,1,0,Body,162
 Shara Ishvalda Coil Alpha +,Health Boost,2,Recovery Up,1,0,1,1,0,Waist,162
-Shara Ishvalda Coil Health +,Health Boost,2,,,0,0,1,1,Waist,162
+Shara Ishvalda Coil Beta +,Health Boost,2,,,0,0,1,1,Waist,162
 Oolong Boots Alpha +,Health Boost,2,,,0,1,0,1,Legs,120
 Pearlspring Alpha +,Recovery Up,2,,,1,1,0,0,Head,120
 Health Charm III,Health Boost,3,,,,,,,Charm,
@@ -83,3 +83,13 @@ Garuga Mail Alpha +,Critical Eye,2,Earplugs,2,1,0,0,0,Body,154
 Garuga Mail Beta +,Critical Eye,1,Earplugs,1,0,0,0,1,Body,154
 Garuga Greaves Alpha +,Critical Eye,2,Piercing Shots,1,0,0,2,0,Legs,154
 Garuga Greaves Beta +,Critical Eye,2,,,0,2,0,1,Legs,154
+Golden Headdress Alpha +,Weakness Exploit,2,Handicraft,2,0,0,0,0,Head,158
+Golden Haori Alpha +,Resentment,2,Speed Sharpening,2,1,0,1,0,Body,158
+Golden Kote Alpha +,Resentment,1,Handicraft,2,0,1,0,0,Arms,158
+Golden Obi Alpha +,Weakness Exploit,1,Handicraft,1,1,0,1,0,Waist,158
+Golden Hakama Alpha +,Resentment,2,Attack Boost,2,0,2,0,0,Legs,158
+Golden Hakama Beta +,Resentment,2,Attack Boost,1,0,1,0,1,Legs,158
+Zinogre Helm Alpha +,Power Prolonger,2,Critical Boost,1,1,0,0,0,Head,158
+Zinogre Helm Beta +,Power Prolonger,1,Critical Boost,1,0,0,0,1,Head,158
+Zinogre Braces Alpha +,Recovery Speed,2,Latent Power,2,1,1,0,0,Arms,158
+Zinogre Braces Beta +,Recovery Speed,1,Latent Power,2,0,1,0,1,Arms,158
