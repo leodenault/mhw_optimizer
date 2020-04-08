@@ -47,6 +47,7 @@ class EquipmentCombination:
             + self.arm_piece.skills
             + self.waist_piece.skills
             + self.leg_piece.skills
+            + self.charm.skills
         )
         self.total_skill_levels = {
             skillName: 0 for skillName in set(
