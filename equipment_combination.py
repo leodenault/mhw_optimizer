@@ -60,3 +60,8 @@ class EquipmentCombination:
             self.total_skill_levels[skill.name] = (
                 self.total_skill_levels[skill.name] + skill.level
             )
+
+    def __lt__(self, other):
+        # Return true by default so that sort operations resulting in a tie
+        # simply choose one of the two equipment pieces.
+        return True
